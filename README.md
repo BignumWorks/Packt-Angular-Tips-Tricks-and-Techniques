@@ -1,1 +1,1 @@
-Code Examples for Packt's Video Course - Deep Learning for Beginners with Python
+Code Examples for Packt's Video Course - Angular: Tips, Tricks, and Techniques
